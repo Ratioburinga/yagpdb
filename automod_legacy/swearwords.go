@@ -2,9 +2,9 @@ package automod_legacy
 
 // These words are listed in in alphabethical order.
 var BuiltinSwearWords = map[string]bool{
-	"anal":        true,
-	"anus":        true,
-	"arse":        true,
+	
+	
+	
 	"ass":         true,
 	"b1tch":       true,
 	"ballsack":    true,
@@ -15,15 +15,15 @@ var BuiltinSwearWords = map[string]bool{
 	"bollock":     true,
 	"bollok":      true,
 	"boner":       true,
-	"boob":        true,
-	"boobs":       true,
+	
+	
 	"buttplug":    true,
-	"clitoris":    true,
+	
 	"cock":        true,
 	"cum":         true,
 	"cunt":        true,
-	"dick":        true,
-	"dildo":       true,
+	 
+
 	"dyke":        true,
 	"erection":    true,
 	"fag":         true,
@@ -36,8 +36,8 @@ var BuiltinSwearWords = map[string]bool{
 	"fucks":       true,
 	"fudgepacker": true,
 	"genitals":    true,
-	"hell":        true,
-	"jerk":        true,
+	
+	
 	"jizz":        true,
 	"knobend":     true,
 	"labia":       true,
@@ -45,14 +45,14 @@ var BuiltinSwearWords = map[string]bool{
 	"muff":        true,
 	"nigger":      true,
 	"nigga":       true,
-	"penis":       true,
+	
 	"piss":        true,
-	"poop":        true,
+	
 	"pube":        true,
 	"pussy":       true,
 	"scrotum":     true,
 	"sex":         true,
-	"shit":        true,
+	
 	"sh1t":        true,
 	"slut":        true,
 	"smegma":      true,
@@ -60,7 +60,7 @@ var BuiltinSwearWords = map[string]bool{
 	"tit":         true,
 	"tranny":      true,
 	"trannies":    true,
-	"tosser":      true,
+	
 	"turd":        true,
 	"twat":        true,
 	"vagina":      true,
